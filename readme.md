@@ -1,7 +1,7 @@
 # Car-ing is sharing Chatbot Prototype
 
 The Chief Technology Officer (CTO) at "Car-ing is sharing," a car sales and rental company, has enlisted your expertise to prototype a chatbot app that addresses diverse inquiries using Large Language Models (LLMs). The CTO has proposed the following tasks for piloting:
-
+![image](car.jpeg)
 ## Task 1: Sentiment Analysis on Car Reviews
 - Utilize a pre-trained LLM to classify the sentiment of the five car reviews in the `car_reviews.csv` dataset.
 - Evaluate the classification accuracy and F1 score of predictions.
